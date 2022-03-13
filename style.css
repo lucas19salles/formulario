@@ -75,8 +75,8 @@ textarea {
   }
 
   textarea {
-    width: 200px;
-    max-width: calc(100% - 10px);
+    width: calc(200px - 20px);
+    height: 240px;
   }
 
   button {
